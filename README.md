@@ -1,6 +1,6 @@
 # Python Practice 
 
-Welcome to my **Python practice repository**!  
+Welcome to my **Python Practice repository**!  
 
 This repo contains code I’ve written while learning Python 3 through Codecademy lessons, experiments, and personal exercises. 
 
