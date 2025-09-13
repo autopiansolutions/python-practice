@@ -1,7 +1,9 @@
 # Python Practice 
 
 Welcome to my **Python practice repository**!  
-This repo contains code I’ve written while learning Python 3 through Codecademy lessons, experiments, and personal exercises.  
+
+This repo contains code I’ve written while learning Python 3 through Codecademy lessons, experiments, and personal exercises. 
+
 It serves as both a **learning log** and a way to track my growth as I work toward becoming a freelance developer.
 
 
