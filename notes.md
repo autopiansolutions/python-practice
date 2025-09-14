@@ -71,6 +71,28 @@ I use it to take notes, summarize concepts, and reflect on what I’ve learned.
   - Python doesn’t recognize a word.  
   - Happens when using a variable that hasn’t been defined.
 
+### Numbers
+
+- **Integer (`int`)**  
+  - Whole numbers (no decimals).  
+  - Includes positive, negative numbers, and 0.  
+  - Examples: counting people, jellybeans in a jar, keys on a keyboard.  
+  - Example: `5`, `-12`, `0`  
+
+- **Floating-point number (`float`)**  
+  - Numbers with decimal points.  
+  - Used for fractions and precise measurements.  
+  - Examples: wall length, average test score, baseball batting average.  
+  - Example: `3.14`, `-0.5`, `42.0`
+
+ ### Calculations
+ 
+ **Basic Arithmetic in Python:**  
+- Addition: `+`  
+- Subtraction: `-`  
+- Multiplication: `*`  
+- Division: `/`  
+
 
 
 
