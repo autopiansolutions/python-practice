@@ -12,7 +12,7 @@ It serves as both a **learning log** and a way to track my growth as I work towa
 - `basics/` → Variables, loops, conditionals, functions  
 - `data_structures/` → Lists, dictionaries, sets, tuples  
 - `mini_projects/` → Small practice projects (games, utilities, scripts)  
-- `notes.md` → Reflections and key takeaways from each lesson  
+- `notes` → Reflections and key takeaways from each lesson  
 
 
 
