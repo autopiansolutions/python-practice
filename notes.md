@@ -20,7 +20,6 @@ I use it to take notes, summarize concepts, and reflect on what I’ve learned.
 
 ### Comments
 
-
 - Comments = text ignored by the Python interpreter.
 - Created with #.
 - Uses:
@@ -53,7 +52,28 @@ I use it to take notes, summarize concepts, and reflect on what I’ve learned.
 - Called “variables” because their values can be updated while keeping the same name.
 - Variables can be **reassigned** to new values.  
 - The variable name stays the same, but the stored value changes.  
-- Useful when program context changes (e.g., greeting vs. goodbye).  
+- Useful when program context changes (e.g., greeting vs. goodbye).
+
+### Errors
+
+- Since humans make mistakes, programming languages help us identify and fix them.  
+- In Python, mistakes are called **errors**.  
+- Python will show where an error occurs using a `^` character.  
+- Unexpected errors are called **bugs**.  
+- The process of fixing these is called **debugging**.  
+
+**Common Error Types:**  
+- **SyntaxError**:  
+  - Problem with code structure.  
+  - Examples: missing parenthesis, misplaced punctuation, wrong command placement.  
+
+- **NameError**:  
+  - Python doesn’t recognize a word.  
+  - Happens when using a variable that hasn’t been defined.
+
+
+
+
 
 
 
