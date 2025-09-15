@@ -93,8 +93,17 @@ I use it to take notes, summarize concepts, and reflect on what I’ve learned.
 - Multiplication: `*`  
 - Division: `/`  
 
+### Exponents
 
+Python can perform exponentiation (raising numbers to a power) using the `**` operator.  
 
+- Exponentiation is written with `**` (instead of superscripts)
+
+### Modulo 
+
+The modulo operator (`%`) returns the remainder after dividing one number by another.  
+ 
+- If two numbers divide evenly, the result is `0`.  
 
 
 
