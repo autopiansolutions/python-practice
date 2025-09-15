@@ -9,9 +9,9 @@ It serves as both a **learning log** and a way to track my growth as I work towa
 
 
 ## Repository Structure
-- `basics/` → Variables, loops, conditionals, functions  
+- `basics` → Variables, loops, conditionals, functions  
 - `data_structures/` → Lists, dictionaries, sets, tuples  
-- `mini_projects/` → Small practice projects (games, utilities, scripts)  
+- `projects` → Small practice projects (games, utilities, scripts)  
 - `notes` → Reflections and key takeaways from each lesson  
 
 
