@@ -95,15 +95,22 @@ I use it to take notes, summarize concepts, and reflect on what I’ve learned.
 
 ### Exponents
 
-Python can perform exponentiation (raising numbers to a power) using the `**` operator.  
-
-- Exponentiation is written with `**` (instead of superscripts)
+- In Python, the `**` operator is used for exponentiation.  
+- Equivalent to “raise a number to the power of another.”  
+- Works with integers, floats, and fractional powers. 
 
 ### Modulo 
 
-The modulo operator (`%`) returns the remainder after dividing one number by another.  
- 
+- The **modulo operator** (`%`) returns the remainder of a division.  
 - If two numbers divide evenly, the result is `0`.  
+- Useful for detecting divisibility and creating repeating patterns.
+
+ ### Concatenation
+
+- The `+` operator can **combine strings** (not just numbers).  
+- This is called **string concatenation**.  
+- Concatenation creates a new string → first string + second string.  
+- No space is automatically added — include `" "` if needed.  
 
 
 
