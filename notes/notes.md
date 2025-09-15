@@ -110,7 +110,26 @@ I use it to take notes, summarize concepts, and reflect on what I’ve learned.
 - The `+` operator can **combine strings** (not just numbers).  
 - This is called **string concatenation**.  
 - Concatenation creates a new string → first string + second string.  
-- No space is automatically added — include `" "` if needed.  
+- No space is automatically added — include `" "` if needed.
+
+### Plus Equals
+
+- The `+=` operator updates a variable **in place**.  
+- Saves you from rewriting the variable name on both sides of `=`.  
+- Works with **numbers** (incrementing) and **strings** (concatenation).
+
+### Multi-line Strings
+
+Python strings are very flexible, but if we try to create a string that spans multiple lines using single (`'`) or double (`"`) quotes, we get a **SyntaxError**.
+
+**Solution: Triple Quotes**
+Python provides **multi-line strings** using three quotes (`"""` or `'''`).  
+With triple quotes, the string doesn’t end until the next triple-quote.  
+
+This is especially useful when:
+- The string contains a lot of quotation marks.
+- We want to preserve line breaks as part of the string.
+
 
 
 
