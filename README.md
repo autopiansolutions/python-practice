@@ -20,7 +20,7 @@ It serves as both a **learning log** and a way to track my growth as I work towa
 - Strengthen my Python 3 fundamentals  
 - Build a portfolio of practice projects  
 - Prepare for freelancing as a computer science student  
-- Long-term: work as a freelance developer in the Netherlands 🇳🇱  
+- Long-term: work as a freelance developer in the Netherlands  
 
 
 
